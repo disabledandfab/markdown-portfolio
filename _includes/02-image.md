@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Replace this with an image, like your photo. Ensure you include some alt-text.![Picrew of person with pink hair sitting in a wheelchair, in 8-bit style. They are smiling](https://user-images.githubusercontent.com/97372545/148668223-85da3a81-18b6-4630-99ec-5ae499b497c1.PNG)
